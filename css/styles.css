@@ -1,0 +1,64 @@
+/* FILEPATH: /Users/maazchowdhry/Desktop/MyNutrition/css/styles.css */
+
+/* Reset default styles */
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+}
+
+h1, h2 {
+    margin-top: 1.5em;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Header styles */
+h1 {
+    text-align: center;
+}
+
+/* Contact info styles */
+h2 {
+    margin-top: 2em;
+}
+
+p {
+    margin-bottom: 1em;
+}
+
+/* Social media styles */
+p a {
+    display: inline-block;
+    margin-right: 1em;
+}
+
+/* About us styles */
+p {
+    text-align: justify;
+}
+
+/* Services styles */
+h2 {
+    margin-top: 2em;
+}
+
+/* Footer styles */
+h2 {
+    margin-top: 2em;
+    text-align: center;
+}
